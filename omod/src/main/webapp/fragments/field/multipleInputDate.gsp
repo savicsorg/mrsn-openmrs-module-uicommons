@@ -231,7 +231,7 @@
     });
 </script>
 <p>&nbsp;</p>
-<h3>${ ui.message("uicommons.or") }</h3>
+<h3>${ ui.message("uicommons.estimated.age") }</h3>
 <p>
     ${ ui.includeFragment("uicommons", "field/text", [
             label: ui.message("uicommons.multipleInputDate.estimatedYears.label"),
